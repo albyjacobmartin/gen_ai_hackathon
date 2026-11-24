@@ -1,1 +1,1 @@
-Yes, I cheated by starting early. I like to think it as using brain.
+# 7CS 1018 - Gen AI Hackathon
